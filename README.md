@@ -9,6 +9,11 @@ MVP-Template-iOS is an iOS Swift app that demonstrates a lightweight implementat
 ## Class diagram of one of the screens
 <img src="./Demo/class-diagram.png" alt="class diagram" width="400">
 
+
+## Preview 
+<img src="./Demo/preview-1.png" alt="class diagram" width="200">
+<img src="./Demo/preview-2.png" alt="class diagram" width="200">
+
 ## Author
 Ruslan Fedorovych
 
