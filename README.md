@@ -9,10 +9,14 @@ MVP-Template-iOS is an iOS Swift app that demonstrates a lightweight implementat
 ## UML diagram of a screen (component)
 <img src="./Demo/class-diagram.png" alt="class diagram" width="400">
 
-
 ## Preview 
 <img src="./Demo/preview-1.png" alt="class diagram" width="200">
 <img src="./Demo/preview-2.png" alt="class diagram" width="200">
+
+## Dependencies
+The sample app is using next libraries and frameworks:
+- [Alamofire](https://github.com/Alamofire/Alamofire)
+- [RxSwift](https://github.com/ReactiveX/RxSwift)
 
 ## References
 - [Clean-swift](http://clean-swift.com)
@@ -22,7 +26,7 @@ MVP-Template-iOS is an iOS Swift app that demonstrates a lightweight implementat
 If you have any suggestions or questions feel free to make a Pull Request or contact us!
 
 ## Author
-####Ruslan Fedorovych
+#### Ruslan Fedorovych
 
 iOS Developer at [OmiSoft](https://omisoft.net)
 
