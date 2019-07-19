@@ -40,7 +40,6 @@ iOS Developer at [OmiSoft](https://omisoft.net)
 
 [1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.1]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[OmiSoft](https://omisoft.net)
 
 ## License
 MVP-Template-iOS is released under the MIT license.  
