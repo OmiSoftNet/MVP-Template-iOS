@@ -3,9 +3,14 @@
 ## Description
 MVP-Template-iOS is an iOS Swift app that demonstrates a lightweight implementation of MVP pattern in iOS.
 
-Read the full article explaining the project [here](https://medium.com/omisoft/lightweight-mvp-architecture-in-ios-a16b3da01563)
+Read the full article explaining the project [here](https://medium.com/omisoft/lightweight-mvp-architecture-in-ios-a16b3da01563).
 
 ## MVP Architecture
+Briefly, MVP stands for Model-View-Presenter. It is based on the distribution of responsibilities among the three modules:
+● Model contains data;
+● View is responsible for displaying data;
+● Presenter, an intermediary between the two modules mentioned above, is responsible for the screen logic;
+
 <img src="./Demo/mvp.png" alt="mvp structure" width="400">
 
 ## UML diagram of a screen (component)
