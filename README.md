@@ -35,7 +35,7 @@ If you have any suggestions or questions feel free to make a Pull Request or con
 ## Author
 #### Ruslan Fedorovych
 
-iOS Developer at [OmiSoft](https://omisoft.net)
+iOS Developer at [OmiSoft](https://omisoft.net/?utm_source=github&utm_medium=social)
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
